@@ -9,8 +9,8 @@ from datetime import datetime
 accounts = [];
 accCount = 0;
 
-myAccount = "not_nang";
-myPassword = "oreo12345";
+myAccount = "nigga.patrick";
+myPassword = "bradbeal4life";
  #fill this out with a starting page
 #accounts.append("masakameme");
 accounts.append("swellygotmemes");
@@ -19,7 +19,7 @@ accounts.append("masakameme");
 
 bot = Bot(filter_users = True, follow_delay = 30, unfollow_delay = 30, max_follows_per_day = 3840, max_unfollows_per_day = 3840);
 
-bot.login(username = myAccount, password = myPassword);
+bot.login(username = nigga.patrick, password = nigga.patrick);
 
 skipped = bot.skipped_file;
 followed = bot.followed_file;
