@@ -29,7 +29,7 @@ for acc in accounts:
 	unfollowed = bot.unfollowed_file;
 
 	followers = list(set(followers) - skipped.set - followed.set - unfollowed.set);
-	followCount = 0;
+	followCount = 150;
 
 	bot.follow_users(followers);
 		
