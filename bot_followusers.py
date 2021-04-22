@@ -10,15 +10,15 @@ accounts = [];
 accCount = 0;
 
 #Fill this in with your info
-myAccount = "not_nang";
-myPassword = "oreo12345";
+myAccount = "nigga.patrick";
+myPassword = "bradbeal4life";
 
  #fill this out with a starting page
 accounts.append("redbir.d");
 
 bot = Bot(filter_users = True, max_follows_per_day = 3840, max_unfollows_per_day = 3840);
 
-bot.login(username = myAccount, password = myPassword	);
+bot.login(username = nigga.patrick, password = bradbeal4life	);
 
 for acc in accounts:
 
