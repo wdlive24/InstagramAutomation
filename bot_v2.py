@@ -9,8 +9,8 @@ from datetime import datetime
 accounts = [];
 accCount = 0;
 
-myAccount = "not_nang";
-myPassword = "password"
+myAccount = "nigga.patrick";
+myPassword = "bradbeal4life"
  #fill this out with a starting page
 accounts.append("meme_greatness1");
 accounts.append("crispi_memes");
